@@ -1,0 +1,312 @@
+{ 
+    "ciudades":[
+    {
+        "nombre": "Quito",
+        "provincia": "Pichincha",
+        "descripcion": "La capital de Ecuador, situada en la región andina, conocida por su bien conservado centro histórico colonial.",
+        "informacion": {
+            "sitio_web": "https://www.quito.gob.ec/",
+            "mapa": "https://goo.gl/maps/3fJ3FmH1U8G2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/quito.png"
+        },
+        "detalles": {
+            "poblacion": "2,781,641",
+            "altitud": "2,850 m"
+        }
+    },
+    {
+        "nombre": "Guayaquil",
+        "provincia": "Guayas",
+        "descripcion": "La ciudad más grande de Ecuador y su principal puerto, conocida por su malecón y el barrio Las Peñas.",
+        "informacion": {
+            "sitio_web": "https://www.guayaquil.gob.ec/",
+            "mapa": "https://goo.gl/maps/4v56SyG1U6F2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/guayaquil.jpg"
+        },
+        "detalles": {
+            "poblacion": "2,698,077",
+            "altitud": "4 m"
+        }
+    },
+    {
+        "nombre": "Cuenca",
+        "provincia": "Azuay",
+        "descripcion": "Una ciudad en las tierras altas del sur de Ecuador, conocida por su arquitectura colonial española y la catedral de la Inmaculada Concepción.",
+        "informacion": {
+            "sitio_web": "https://www.cuenca.gob.ec/",
+            "mapa": "https://goo.gl/maps/7vV3SyG8L5H2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/cuenca.webp"
+        },
+        "detalles": {
+            "poblacion": "636,996",
+            "altitud": "2,560 m"
+        }
+    },
+    {
+        "nombre": "Ambato",
+        "provincia": "Tungurahua",
+        "descripcion": "Conocida como la 'Cuna de los Tres Juanes', es famosa por sus festivales de flores y frutas.",
+        "informacion": {
+            "sitio_web": "https://www.ambato.gob.ec/",
+            "mapa": "https://goo.gl/maps/9vT6V7J2Q4M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/ambato.jpeg"
+        },
+        "detalles": {
+            "poblacion": "387,117",
+            "altitud": "2,577 m"
+        }
+    },
+    {
+        "nombre": "Manta",
+        "provincia": "Manabí",
+        "descripcion": "Un importante puerto y centro turístico en la costa central de Ecuador, conocido por sus playas y vida nocturna.",
+        "informacion": {
+            "sitio_web": "https://www.manta.gob.ec/",
+            "mapa": "https://goo.gl/maps/2vW9M8L7J3N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/manta.webp"
+        },
+        "detalles": {
+            "poblacion": "264,292",
+            "altitud": "6 m"
+        }
+    },
+    {
+        "nombre": "Loja",
+        "provincia": "Loja",
+        "descripcion": "Conocida como la 'Capital Musical y Cultural de Ecuador', es famosa por su rica historia y festivales.",
+        "informacion": {
+            "sitio_web": "https://www.loja.gob.ec/",
+            "mapa": "https://goo.gl/maps/3vT7W9J8L9N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/loja3.jpg"
+        },
+        "detalles": {
+            "poblacion": "214,855",
+            "altitud": "2,060 m"
+        }
+    },
+    {
+        "nombre": "Portoviejo",
+        "provincia": "Manabí",
+        "descripcion": "Capital de la provincia de Manabí, conocida por su producción agrícola y mercados locales.",
+        "informacion": {
+            "sitio_web": "https://www.portoviejo.gob.ec/",
+            "mapa": "https://goo.gl/maps/8vY8N9J7K5M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/portoviejo.jpg"
+        },
+        "detalles": {
+            "poblacion": "280,029",
+            "altitud": "53 m"
+        }
+    },
+    {
+        "nombre": "Machala",
+        "provincia": "El Oro",
+        "descripcion": "Un importante puerto bananero en el suroeste de Ecuador, conocido como la 'Capital Mundial del Banano'.",
+        "informacion": {
+            "sitio_web": "https://www.machala.gob.ec/",
+            "mapa": "https://goo.gl/maps/7vX7Q8L9P3M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/machala.jpg"
+        },
+        "detalles": {
+            "poblacion": "241,606",
+            "altitud": "6 m"
+        }
+    },
+    {
+        "nombre": "Ibarra",
+        "provincia": "Imbabura",
+        "descripcion": "Conocida como la 'Ciudad Blanca' por sus fachadas blancas, es famosa por su lago Yahuarcocha y fiestas tradicionales.",
+        "informacion": {
+            "sitio_web": "https://www.ibarra.gob.ec/",
+            "mapa": "https://goo.gl/maps/9vR6P9J7L3N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/ibarra.jpg"
+        },
+        "detalles": {
+            "poblacion": "181,175",
+            "altitud": "2,225 m"
+        }
+    },
+    {
+        "nombre": "Esmeraldas",
+        "provincia": "Esmeraldas",
+        "descripcion": "Un puerto importante en la costa norte de Ecuador, conocido por sus playas y cultura afroecuatoriana.",
+        "informacion": {
+            "sitio_web": "https://www.esmeraldas.gob.ec/",
+            "mapa": "https://goo.gl/maps/2vX8P7J5L3M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/esmeraldas.jpg"
+        },
+        "detalles": {
+            "poblacion": "161,868",
+            "altitud": "15 m"
+        }
+    },
+    {
+        "nombre": "Riobamba",
+        "provincia": "Chimborazo",
+        "descripcion": "Ubicada en el corazón de Ecuador, conocida por su proximidad al volcán Chimborazo y su rica historia colonial.",
+        "informacion": {
+            "sitio_web": "https://www.riobamba.gob.ec/",
+            "mapa": "https://goo.gl/maps/3vX9Q7J2L4M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/riobamba.jpg"
+        },
+        "detalles": {
+            "poblacion": "225,741",
+            "altitud": "2,754 m"
+        }
+    },
+    {
+        "nombre": "Santo Domingo",
+        "provincia": "Santo Domingo de los Tsáchilas",
+        "descripcion": "Una ciudad en el oeste de Ecuador, conocida por su diversidad cultural y su crecimiento económico rápido.",
+        "informacion": {
+            "sitio_web": "https://www.santodomingo.gob.ec/",
+            "mapa": "https://goo.gl/maps/5vY8P8L9M2N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/santodomingo.jpg"
+        },
+        "detalles": {
+            "poblacion": "305,632",
+            "altitud": "625 m"
+        }
+    },
+    {
+        "nombre": "Latacunga",
+        "provincia": "Cotopaxi",
+        "descripcion": "Conocida por su vibrante Fiesta de la Mama Negra y su proximidad al volcán Cotopaxi.",
+        "informacion": {
+            "sitio_web": "https://www.latacunga.gob.ec/",
+            "mapa": "https://goo.gl/maps/6vX8Q7K9P3M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/latacunga.webp"
+        },
+        "detalles": {
+            "poblacion": "170,032",
+            "altitud": "2,760 m"
+        }
+    },
+    {
+        "nombre": "Tulcán",
+        "provincia": "Carchi",
+        "descripcion": "Una ciudad fronteriza en el norte de Ecuador, conocida por su cementerio de cipreses y proximidad a Colombia.",
+        "informacion": {
+            "sitio_web": "https://www.tulcan.gob.ec/",
+            "mapa": "https://goo.gl/maps/7vR8P9J6K5M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/tulcan.jpg"
+        },
+        "detalles": {
+            "poblacion": "86,498",
+            "altitud": "2,950 m"
+        }
+    },
+    {
+        "nombre": "Tena",
+        "provincia": "Napo",
+        "descripcion": "Conocida como la 'Capital de la Canela', es una puerta de entrada a la selva amazónica y sus atractivos naturales.",
+        "informacion": {
+            "sitio_web": "https://www.tena.gob.ec/",
+            "mapa": "https://goo.gl/maps/2vR9Q8J5L3M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/tena.webp"
+        },
+        "detalles": {
+            "poblacion": "33,934",
+            "altitud": "598 m"
+        }
+    },
+    {
+        "nombre": "Macas",
+        "provincia": "Morona Santiago",
+        "descripcion": "Una ciudad en el sureste de Ecuador, conocida por sus paisajes naturales y comunidades indígenas.",
+        "informacion": {
+            "sitio_web": "https://www.macas.gob.ec/",
+            "mapa": "https://goo.gl/maps/6vX9P7J4M3N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/macas.jpg"
+        },
+        "detalles": {
+            "poblacion": "18,984",
+            "altitud": "1,050 m"
+        }
+    },
+    {
+        "nombre": "Zamora",
+        "provincia": "Zamora Chinchipe",
+        "descripcion": "Conocida como la 'Ciudad de Aves y Cascadas', es famosa por sus paisajes naturales y biodiversidad.",
+        "informacion": {
+            "sitio_web": "https://www.zamora.gob.ec/",
+            "mapa": "https://goo.gl/maps/9vX8Q8J5M3N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/zamora.jpeg"
+        },
+        "detalles": {
+            "poblacion": "14,453",
+            "altitud": "970 m"
+        }
+    },
+    {
+        "nombre": "Salinas",
+        "provincia": "Santa Elena",
+        "descripcion": "Un popular destino turístico costero conocido por sus playas y resorts.",
+        "informacion": {
+            "sitio_web": "https://www.salinas.gob.ec/",
+            "mapa": "https://goo.gl/maps/3vR9P7K5M3N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/salinas.webp"
+        },
+        "detalles": {
+            "poblacion": "49,572",
+            "altitud": "8 m"
+        }
+    },
+    {
+        "nombre": "Babahoyo",
+        "provincia": "Los Ríos",
+        "descripcion": "Conocida como la 'Capital del Arroz', es un importante centro agrícola y comercial.",
+        "informacion": {
+            "sitio_web": "https://www.babahoyo.gob.ec/",
+            "mapa": "https://goo.gl/maps/4vX7Q9J6K5M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/babahoyo.jpg"
+        },
+        "detalles": {
+            "poblacion": "153,776",
+            "altitud": "8 m"
+        }
+    },
+    {
+        "nombre": "Quevedo",
+        "provincia": "Los Ríos",
+        "descripcion": "Un importante centro comercial y agrícola en la región costera de Ecuador.",
+        "informacion": {
+            "sitio_web": "https://www.quevedo.gob.ec/",
+            "mapa": "https://goo.gl/maps/5vR8Q8J5L3N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/quevedo.jpg"
+        },
+        "detalles": {
+            "poblacion": "173,005",
+            "altitud": "74 m"
+        }
+    },
+    {
+        "nombre": "Nueva Loja",
+        "provincia": "Sucumbíos",
+        "descripcion": "Conocida como Lago Agrio, es un centro importante para la industria petrolera en el noreste de Ecuador.",
+        "informacion": {
+            "sitio_web": "https://www.lagoagrio.gob.ec/",
+            "mapa": "https://goo.gl/maps/6vX8Q9K5L3M2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/nuevaloja.jpg"
+        },
+        "detalles": {
+            "poblacion": "57,727",
+            "altitud": "297 m"
+        }
+    },
+    {
+        "nombre": "Puerto Baquerizo Moreno",
+        "provincia": "Galápagos",
+        "descripcion": "La capital de las Islas Galápagos, conocida por su biodiversidad y ecoturismo.",
+        "informacion": {
+            "sitio_web": "https://www.galapagos.gob.ec/",
+            "mapa": "https://goo.gl/maps/7vR9P8J6M3N2",
+            "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-ciudades/baquerizo.jpg"
+        },
+        "detalles": {
+            "poblacion": "7,500",
+            "altitud": "6 m"
+        }
+    }
+]
+}
